@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taha Mis</h1>
-<h3 align="center">A passionate mobil and backend developer from Türkiye</h3>
+<h3 align="center">Mobile & Backend Developer from Türkiye | Turning Ideas into Code</h3>
 
-- 🔭 I’m currently working on **dart**
 
 - 👨‍💻 All of my projects are available at [https://tahamis.netlify.app/](https://tahamis.netlify.app/)
 
-- 💬 Ask me about **dart,c#**
+- 💬 Ask me about **dart,c#,flutter,python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
