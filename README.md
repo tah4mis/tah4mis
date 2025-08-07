@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tahamis.netlify.app/](https://tahamis.netlify.app/)
 
-- 💬 Ask me about **dart,c#,flutter,python**
+- 💬 Ask me about **dart,c#,js,python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
