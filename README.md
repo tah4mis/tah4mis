@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile & Backend Developer<br>
+Mobile & Full Stack Developer<br>
 
 
 ## 🌐 Socials:
