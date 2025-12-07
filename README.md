@@ -1,6 +1,6 @@
 ### Hi there 👋, Taha Mis
 #### Full Stack Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
 
 Skills: C/C++/C#/Python/JavaScript/TypeScript/Kotlin/Dart/Angular/React/Vue/Next.js/NestJS/Node.js/Flask/Django/Unity/Flutter/ExpressJS
 
