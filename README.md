@@ -14,19 +14,47 @@
 ## 🚀 Hakkımda
 
 - 🎓 Bilgisayar bilimleriyle ilgilenen, sürekli yeni teknolojiler öğrenmeye açık.  
-- 💻 Backend, frontend, mobil ve CLI araç geliştirme tecrübem var.  
-- 🔧 Teknolojiler: C, C++, C#, Python, JavaScript, TypeScript, Kotlin, Dart,  
-  Angular, React, Vue, Next.js, NestJS, Node.js, Flask, Django, Unity, Flutter, ExpressJS  
-- 🌱 Şu anda: Modern web uygulamaları & mikro-servis sistemleri üzerine çalışıyorum.
+- 💻 Backend, frontend, mobil, oyun ve CLI araç geliştirme tecrübem var.  
+- 🌱 Modern web uygulamaları, mikro-servis sistemleri ve mobil çözümler üzerine çalışıyorum.
+
+---
+
+## 🧠 Skills / Tech Stack
+
+<div align="center">
+
+### 💻 **Backend**
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,nodejs,express,nestjs,dotnet,flask,django" />
+
+### 🎨 **Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular" />
+
+### 📱 **Mobile & Cross-Platform**
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
+
+### 🗃️ **Databases**
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase" />
+
+### ⚙️ **DevOps & Tools**
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,aws" />
+
+### 🤖 **AI / Data**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+</div>
 
 ---
 
 ## 📬 İletişim
 
-- 📧 E-posta / LinkedIn / Diğer sosyal medya → Profil sekmesinden ulaşabilirsiniz.  
-- 🤝 Açık kaynak projelere katkı yapmaya bayılırım — bir projede birlikte çalışmak isterseniz memnuniyetle katılırım.  
-- ⭐ Beğendiğiniz bir projem olursa ⭐ vermeyi unutmayın 😉
+<div align="left">
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/tahamis/  
+- 📸 **Instagram:** https://www.instagram.com/codewtaha/
+
+</div>
 
 ---
 
 > “Always be learning, always be coding.”
+
