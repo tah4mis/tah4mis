@@ -13,7 +13,7 @@
 
 ## 🚀 Hakkımda
 
-- 🎓 Bilgisayar bilimleriyle ilgilenen, sürekli yeni teknolojiler öğrenmeye açık.  
+
 - 💻 Backend, frontend, mobil, oyun ve CLI araç geliştirme tecrübem var.  
 - 🌱 Modern web uygulamaları, mikro-servis sistemleri ve mobil çözümler üzerine çalışıyorum.
 
