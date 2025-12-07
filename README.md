@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Merhaba, ben Taha Mis</h1>
-  <p>Full-Stack Developer | C#/C++/Python/JavaScript/TypeScript & more</p>
+  <h1>👋 Hey, I'm Taha Mis</h1>
+  <p>Full-Stack Developer | C# • C++ • Python • JavaScript • TypeScript & more</p>
   <br/>
   <a href="https://github.com/tah4mis">
     <img src="https://github-readme-stats.vercel.app/api?username=tah4mis&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
@@ -11,11 +11,11 @@
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-
-- 💻 Backend, frontend, mobil, oyun ve CLI araç geliştirme tecrübem var.  
-- 🌱 Modern web uygulamaları, mikro-servis sistemleri ve mobil çözümler üzerine çalışıyorum.
+- 💻 Full-stack developer experienced in backend, frontend, mobile, AI and CLI tools.  
+- 🔧 Passionate about building scalable systems, modern web architectures and efficient developer tooling.  
+- 🌱 Always exploring new technologies and improving existing skills.
 
 ---
 
@@ -45,16 +45,11 @@
 
 ---
 
-## 📬 İletişim
-
-<div align="left">
+## 📬 Contact
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/tahamis/  
 - 📸 **Instagram:** https://www.instagram.com/codewtaha/
 
-</div>
-
 ---
 
 > “Always be learning, always be coding.”
-
