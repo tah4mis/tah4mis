@@ -1,16 +1,32 @@
-### Hi there 👋, Taha Mis
-#### Full Stack Developer
+<div align="center">
+  <h1>👋 Merhaba, ben Taha Mis</h1>
+  <p>Full-Stack Developer | C#/C++/Python/JavaScript/TypeScript & more</p>
+  <br/>
+  <a href="https://github.com/tah4mis">
+    <img src="https://github-readme-stats.vercel.app/api?username=tah4mis&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tah4mis&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
+---
 
-Skills: C/C++/C#/Python/JavaScript/TypeScript/Kotlin/Dart/Angular/React/Vue/Next.js/NestJS/Node.js/Flask/Django/Unity/Flutter/ExpressJS
+## 🚀 Hakkımda
 
+- 🎓 Bilgisayar bilimleriyle ilgilenen, sürekli yeni teknolojiler öğrenmeye açık.  
+- 💻 Backend, frontend, mobil ve CLI araç geliştirme tecrübem var.  
+- 🔧 Teknolojiler: C, C++, C#, Python, JavaScript, TypeScript, Kotlin, Dart,  
+  Angular, React, Vue, Next.js, NestJS, Node.js, Flask, Django, Unity, Flutter, ExpressJS  
+- 🌱 Şu anda: Modern web uygulamaları & mikro-servis sistemleri üzerine çalışıyorum.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tah4mis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tahamis//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/codewtaha//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tah4mis.github.io/tahamisportfolio.github-io/)  
+## 📬 İletişim
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tah4mis)](https://github.com/anuraghazra/github-readme-stats)
+- 📧 E-posta / LinkedIn / Diğer sosyal medya → Profil sekmesinden ulaşabilirsiniz.  
+- 🤝 Açık kaynak projelere katkı yapmaya bayılırım — bir projede birlikte çalışmak isterseniz memnuniyetle katılırım.  
+- ⭐ Beğendiğiniz bir projem olursa ⭐ vermeyi unutmayın 😉
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tah4mis&show_icons=true)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=tah4mis)  
-
+> “Always be learning, always be coding.”
